@@ -1,0 +1,42 @@
+WEBVTT
+
+1
+00:00:00.420 --> 00:00:06.800
+Shobhit Sinha: Hello, everyone! I'm Chauvin, Sina and I'm here with my group group 15, and this is our presentation for phase 4. Next.
+
+2
+00:00:07.310 --> 00:00:19.450
+Shobhit Sinha: These tasks were called as part of phase 4. Next. The main AIM of this phase was to implement neural network and to experiment with different architecture, to improve the accuracy of the model. Next
+
+3
+00:00:19.800 --> 00:00:31.550
+Shobhit Sinha: the following steps were performed as part of feature engineering which helped us add 70 newly generated features to the data set, and then this data was provided as input to the neural networks that we developed across over to you
+
+4
+00:00:31.890 --> 00:00:39.910
+Akash Gangadharan: for the hyper parameter tuning. We, in the phase 3 we had used all these models, but in the phase 4 we have used neural network to improve the accuracy.
+
+5
+00:00:39.910 --> 00:00:52.400
+Akash Gangadharan: Now you can just have a look at the Ml. Map, the the typical Ml map that we have used, and we have also incorporated neural network model over to the area for the explanation of the result.
+
+6
+00:00:52.740 --> 00:01:07.330
+Dhairya Shah: So these are our various experiments. The first one is of single layer perceptron, and, as you can see, the best test accuracy we obtained after many experiments is of 90.7% with 600 epochs, and the learning rate of 0 point 0 0 one. Next
+
+7
+00:01:07.810 --> 00:01:21.390
+Dhairya Shah: Another experiment we conducted was of multilayer perceptron with the classification. In this we conducted a significant amount of experiments, but we got around same result, which is trade accuracy of around 91.9% next.
+
+8
+00:01:21.960 --> 00:01:35.330
+Dhairya Shah: and the third experiment we conducted was multi layer perceptron with recreation again, with several experiments at our disposal. But the train accuracy was around similar, which was 99, 90 and 1.9% next lie over to you
+
+9
+00:01:36.350 --> 00:01:53.560
+layaharwin: in the final experimented we implemented multi-head model, where we want the next model, where we we use 2 awfully connected layers. Next. during our capital submission we've got the best scores for monthly leopard spectrum for classification. Next
+
+10
+00:01:54.200 --> 00:02:05.930
+layaharwin: conclusion. So basically we ran until a phase 4. We got the best model, which was multi, their first electron, with an accuracy of 91.8, 3%. Thank you.
+
