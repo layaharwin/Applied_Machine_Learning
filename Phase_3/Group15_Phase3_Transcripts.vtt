@@ -1,0 +1,38 @@
+WEBVTT
+
+1
+00:00:00.880 --> 00:00:07.750
+Shobhit Sinha: Hello, everyone! I'm sobid. Sina and I'm here with my group group 15. This is our presentation for Phase 3. Next.
+
+2
+00:00:08.140 --> 00:00:22.490
+Shobhit Sinha: These tasks were covered as part of phase 3. Next. The main AIM of this phase was performing feature, engineering, type of parameter tuning and analysis of selected features to improve the accuracy of the model. Next.
+
+3
+00:00:23.020 --> 00:00:31.820
+Shobhit Sinha: the following steps are performed as part of the feature engineering which helped us add 17 newly generated features to the data, set a cash over to you.
+
+4
+00:00:33.650 --> 00:00:49.460
+Akash Gangadharan: We'll be. We have performed hyper parameter tuning, using great search TV, and these were the models that we have performed. Our our hyperv parameter tuning on moving on. This is basically a typical machine learning pipeline that we have adopted. Now. Oh, there will explain.
+
+5
+00:00:50.400 --> 00:01:02.390
+Dhairya Shah: Okay, so these are our experiments. So this is the experiment which we perform on the entire dataset with 100 features, and the best model, which is quite visible is random forest next.
+
+6
+00:01:02.900 --> 00:01:16.520
+Dhairya Shah: And this is a different experiment in which we have done feature engineering without any new features based on the entire inputs and the best model which you can see is probably logistic regression. Model a liar over to you next.
+
+7
+00:01:17.400 --> 00:01:27.830
+layaharwin: Okay, as part of the experiment, for we did feature engineering with new features, and the best model was a multi-normal name base, and I. Almost next
+
+8
+00:01:28.450 --> 00:01:46.460
+layaharwin: we got the best capital scores for a logistic regression. Next. So the key finding is that we received a logistic 91.8, 5% of accuracy for logistic integration with feature engineering without considering any of the new features. Next
+
+9
+00:01:46.860 --> 00:01:54.560
+layaharwin: as part of future scope. We'll be implementing our network, and we will try to improve this course, using your network models. Thank you.
+
